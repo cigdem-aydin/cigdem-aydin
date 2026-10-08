@@ -6,7 +6,8 @@
   </a>
 
   <a href="https://www.linkedin.com/in/aydincigdem/" title="LinkedIn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="25" height="25" alt="LinkedIn" />
+    <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c7e39c6b-c16b-4a81-81b9-922c633faf5a" />
+
   </a>
 
   <img src="./assets/bear1.gif" width="32" height="32" alt="Bear" />
