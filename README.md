@@ -6,7 +6,8 @@
   </a>
 
   <a href="https://www.linkedin.com/in/aydincigdem/" title="LinkedIn">
-    <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c7e39c6b-c16b-4a81-81b9-922c633faf5a" />
+    <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/945e4b53-4abe-4786-8ede-a0121158a209" />
+
 
   </a>
 
