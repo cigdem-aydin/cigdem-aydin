@@ -1,9 +1,9 @@
 
 <p align="left">
-  <a href="https://www.instagram.com/cigdem-aydin/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/cigdem.png/">
+    <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" height="25" />
   </a>
   <a href="https://www.linkedin.com/in/aydincigdem/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" />
   </a>
 </p>
