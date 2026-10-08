@@ -1,7 +1,8 @@
 <p align="left">
 
   <a href="https://www.instagram.com/cigdem.png/" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="25" height="25" alt="Instagram" />
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/44fce763-24dd-499d-9598-8f8bfe27e18d" />
+
   </a>
 
   <a href="https://www.linkedin.com/in/aydincigdem/" title="LinkedIn">
