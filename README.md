@@ -11,5 +11,4 @@
 
   </a>
 
-  <img src="./assets/bear1.gif" width="32" height="32" alt="Bear" />
 </p>
