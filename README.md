@@ -20,7 +20,7 @@
 <h4 align="center">Programming Languages</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="25" height="25" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="25" height="25" alt="C#" />
 </p>
 
 <h4 align="center">Tools</h4>
