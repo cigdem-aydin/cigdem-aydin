@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="ÇİĞDEM AYDIN">
+  <title>ÇİĞDEM AYDIN</title>
+  <defs>
+    <!-- Magic UI VideoText mantığı: metin bir maske, içinde hareket eden görüntü -->
+    <clipPath id="textMask">
+      <text x="500" y="122" text-anchor="middle" dominant-baseline="middle"
+            font-family="Arial Black, Impact, Helvetica, Arial, sans-serif"
+            font-weight="900" font-size="120"
+            textLength="920" lengthAdjust="spacingAndGlyphs">ÇİĞDEM AYDIN</text>
+    </clipPath>
+
+    <linearGradient id="deep" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.55" stop-color="#0284c7"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
+
+    <!-- Periyodu 400px olan dalga; kaydırınca kesintisiz döngü olur -->
+    <path id="wave" d="M0 0 Q100 -40 200 0 T400 0 T600 0 T800 0 T1000 0 T1200 0 T1400 0 L1400 400 L0 400 Z"/>
+  </defs>
+
+  <g clip-path="url(#textMask)">
+    <rect width="1000" height="240" fill="url(#deep)"/>
+
+    <!-- arka dalga -->
+    <g transform="translate(0 95)">
+      <g>
+        <use href="#wave" fill="#7dd3fc" fill-opacity="0.55"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="9s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- orta dalga -->
+    <g transform="translate(0 130)">
+      <g>
+        <use href="#wave" fill="#0ea5e9" fill-opacity="0.75"/>
+        <animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- ön dalga -->
+    <g transform="translate(0 165)">
+      <g>
+        <use href="#wave" fill="#075985" fill-opacity="0.85"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="4s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- köpük parıltısı -->
+    <ellipse cx="200" cy="70" rx="120" ry="14" fill="#ffffff" fill-opacity="0.35">
+      <animate attributeName="cx" values="-100;1100" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="700" cy="150" rx="90" ry="10" fill="#ffffff" fill-opacity="0.25">
+      <animate attributeName="cx" values="1100;-100" dur="15s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+</svg>
