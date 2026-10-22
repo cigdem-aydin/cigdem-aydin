@@ -2,7 +2,7 @@
   <img src="./ocean-text.svg" width="700" alt="Çiğdem Aydın" />
 </p>
 
-<h4 align="center">Socials</h4>
+<h3 align="center">Socials</h3>
 
 <p align="center">
 
@@ -21,13 +21,13 @@
 
 </p>
 
-<h4 align="center">Programming Languages</h4>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="40" height="40" alt="C#" />
 </p>
 
-<h4 align="center">Tools</h4>
+<h3 align="center">Tools</h3>
 
 <p align="center">
   <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" width="40" height="40" alt="Dev-C++" title="Dev-C++" />
