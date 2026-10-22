@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/cigdem-aydin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Merhaba,+ben+%C3%87i%C4%9Fdem+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="./ocean-text.svg" width="700" alt="Çiğdem Aydın" />
 </p>
 
