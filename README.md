@@ -1,4 +1,4 @@
-<h3>📫 Connect With Me</h3>
+<h4>Social Media</h4>
 
 <p align="left">
 
@@ -17,16 +17,14 @@
 
 </p>
 
-<h3>🛠️ Tech Stack</h3>
-
 <h4>Programming Languages</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="25" height="25" alt="C" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="28" height="28" alt="C" />
 </p>
 
 <h4>Tools</h4>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/DEV--C++-FF8C00?style=flat-square" height="25" alt="Dev-C++" />
+  <img src="https://raw.githubusercontent.com/Embarcadero/Dev-Cpp/master/devcpp.ico" width="28" height="28" alt="Dev-C++" title="Dev-C++" />
 </p>
