@@ -1,6 +1,6 @@
-<h4>Socials</h4>
+<h4 align="center">Socials</h4>
 
-<p align="left">
+<p align="center">
 
   <a href="https://www.instagram.com/cigdem.png/" title="Instagram">
   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c740497a-e7f5-48e9-8d82-65bb3cb832cd" />
@@ -17,14 +17,14 @@
 
 </p>
 
-<h4>Programming Languages</h4>
+<h4 align="center">Programming Languages</h4>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c&theme=dark" width="25" height="25" alt="C" />
 </p>
 
-<h4>Tools</h4>
+<h4 align="center">Tools</h4>
 
-<p align="left">
+<p align="center">
   <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" width="25" height="25" alt="Dev-C++" title="Dev-C++" />
 </p>
