@@ -20,11 +20,11 @@
 <h4>Programming Languages</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="28" height="28" alt="C" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="25" height="25" alt="C" />
 </p>
 
 <h4>Tools</h4>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Embarcadero/Dev-Cpp/master/devcpp.ico" width="28" height="28" alt="Dev-C++" title="Dev-C++" />
+  <img src="devcpp.png" height="25" alt="Dev-C++" title="Dev-C++" />
 </p>
