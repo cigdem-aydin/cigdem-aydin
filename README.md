@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%C3%87i%C4%9Fdem%20Ayd%C4%B1n&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Çiğdem Aydın" />
+  <img src="./ocean-text.svg" width="700" alt="Çiğdem Aydın" />
 </p>
 
 <h4 align="center">Socials</h4>
