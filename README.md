@@ -1,3 +1,5 @@
+<h3>📫 Connect With Me</h3>
+
 <p align="left">
 
   <a href="https://www.instagram.com/cigdem.png/" title="Instagram">
@@ -20,7 +22,7 @@
 <h4>Programming Languages</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="35" height="35" alt="C" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="28" height="28" alt="C" />
 </p>
 
 <h4>Tools</h4>
