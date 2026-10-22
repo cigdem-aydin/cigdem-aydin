@@ -1,4 +1,4 @@
-<h4>Social Media</h4>
+<h4>Socials</h4>
 
 <p align="left">
 
